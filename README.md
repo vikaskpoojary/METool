@@ -1,5 +1,3 @@
-https://hubcloud.foo/drive/sd91njxlb96rj8f
-
 
 Publisher: Vikas k poojary
 App Name: METool
